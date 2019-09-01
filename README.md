@@ -7,8 +7,8 @@ Roll Number - 20161024
 
 Go to the ```Server``` directory, and run the following commands:  
 
-        javac FileServer.java
-        java FileServer <maximum number of clients>
+    javac FileServer.java
+    java FileServer <maximum number of clients>
 
 The maximum number of clients that can be connected to the server has to be mentioned as the argument while running the server.
 
